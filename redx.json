@@ -1,6 +1,5 @@
 {
-  "showDialog": true,
-  "expiryDate": "December-7-2025",
+  "showDialog": false,
   "latestVersionCode": 2,
   "latestVersionName": "1.1",
   "title": "UPDATE AVAILABLE",
